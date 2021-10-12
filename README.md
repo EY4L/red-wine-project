@@ -7,6 +7,7 @@ This project was part of the MSc Data Science course at City Of London Universit
 - data: The dataset in its original form and the processed dataset
 - eda: Images from the analysis
 - models: .pkl Files of the trained models and .csv output of test results
+- Report.md: Full written report 
 - EDA.ipynb & TRAIN.ipynb: Jupyter Notebook outputs of the python files
 - eda.py & train.py: Python code for analysis and ml
 
